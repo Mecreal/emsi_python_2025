@@ -1,1 +1,2 @@
 # emsi_python_2025
+Ce dépôt contient l'ensemble des ressources pédagogiques du cours Python destiné aux filières GI et GESI de l'EMSI pour l'année universitaire 2025-2026. Vous y trouverez le cours complet ainsi que les travaux pratiques (TP) associés.
