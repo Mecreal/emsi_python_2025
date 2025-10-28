@@ -29,6 +29,6 @@ print("#"*30,"Méthode 4:",sep="\n")
 print("""
 Produit: {:s}
 Nombre: {:d}
-Prix: {:.2f}
+Prix: {:.1f}
 En stock: {:b}
 """.format(produit, nombre, prix, en_stock))
