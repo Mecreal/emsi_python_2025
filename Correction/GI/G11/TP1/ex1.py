@@ -1,7 +1,7 @@
 # Déclaration de variable et afichge de la valeur de la variable
 
 # Déclaration de variable
-produit : str = "Ordinateur"
+produit = "Ordinateur"
 nombre = 10
 prix = 1000.0
 en_stock = True
@@ -29,6 +29,6 @@ print("#"*30,"Méthode 4:",sep="\n")
 print("""
 Produit: {:s}
 Nombre: {:d}
-Prix: {:.1f}
+Prix: {:.2f}
 En stock: {:b}
 """.format(produit, nombre, prix, en_stock))

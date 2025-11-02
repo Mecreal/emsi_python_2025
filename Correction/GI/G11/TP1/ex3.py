@@ -34,11 +34,3 @@ print("c ou d", c or d)
 print("non c", not c)
 
 print("non d", not d)
-
-
-# Addition 
-
-
-print(x > y and y < 11)
-
-print( y < x < 11 )
