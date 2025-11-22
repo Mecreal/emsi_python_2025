@@ -32,10 +32,10 @@ Reculez 3 cases")
     elif score % 13 == 0:
         print("Vous avez obtenu un multiple de 13.")
         tour += 1
-        sleep(0.5)
+        sleep(1)
         print("Vous avez sauté un tour")
         continue
-    sleep(0.5)
+    sleep(1)
 
 
 
